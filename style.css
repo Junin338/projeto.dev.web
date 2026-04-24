@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 255, 13);
+    background-color: blue;
+    padding: 10px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    border: none;
+    padding: 15px 10px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto; 
+}
+
+footer {
+    color: blue;
+    background-color: blue;
+}
